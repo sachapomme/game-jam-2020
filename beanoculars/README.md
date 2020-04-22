@@ -1,9 +1,9 @@
 ![beanoculars' logo](submission/images/icons/beanocularsMINI.png)
 ### Beanoculars' submission for the python-discord game jam 2020
 ---
-# INSANE IRRADIATED INSECTS
+![Insane Irradiated Insectz title screen](submission/images/icons/titleScreen/title.png)
 ---
-> Made by sachapomme (Sacha#8175)
+> Insane Irradiated Insectz, made by sachapomme (Sacha#8175)
 
 ## About
 This game was made for the *Python Discord Game Jam 2020*. The theme was "Three of a kind" and the participants had 10 days to do the best game possible, using the *arcade* library
